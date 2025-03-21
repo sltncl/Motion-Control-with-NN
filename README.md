@@ -5,7 +5,6 @@ The project is organized into the following folder structure:
 
 - **📄 Documentation**: Contains the detailed documentation of the project.
 - **📊 Robotics_Presentation**: Includes the project presentation.
-- **📚 References**: Contains the project bibliography.
 - **📂 Simulink**: Contains the implemented models.
 
 ### 📌 *Simulink* Folder Structure
